@@ -1,0 +1,42 @@
+.bg_color_blue {
+  background: #319cea;
+}
+.bg_color_green {
+  background: #3ed319;
+}
+.bg_color_purple {
+  background: #ba31ea;
+}
+.border_blue {
+  border: solid 5px #1fa7f4;
+}
+.border_green {
+  border: solid 5px #3ed319;
+}
+.border_purple {
+  border: solid 5px #ba31ea;
+}
+.center-align {
+  text-align: center;
+}
+.margin-auto {
+  margin: auto;
+}
+.bold {
+  font-weight: bold;
+}
+.display_flex {
+  display: flex;
+}
+.line_height {
+  line-height: 1.25;
+}
+.text_align {
+  text-align: center;
+}
+.margin_top {
+  margin-top: 50px;
+}
+.margin_bottom {
+    margin-bottom: 50px;
+}
